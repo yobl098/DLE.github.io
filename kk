@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="https://embed.calculoid.com/styles/main.css" /><script src="https://embed.calculoid.com/scripts/combined.min.js"></script><div ng-app="calculoid" ng-controller="CalculoidMainCtrl" ng-init="init({calcId:87848,apiKey:'f19c09426087661950a00'})" ng-include="load()"></div>
